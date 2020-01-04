@@ -13,8 +13,8 @@
 | --- | --- |
 | Flow Status | Successful - Fri Jan 03 19:47:39 2020 |
 | Quartus Prime Version | 18.1.0 Build 625 09/12/2018 SJ Standard Edition |
-| Revision Name | Serdes |
-| Top-level Entity Name | Serdes |
+| Revision Name | DIV |
+| Top-level Entity Name | DIV |
 | Family | Stratix IV |
 | Device | EP4SGX230KF40C2 |
 | Timing Models | Final |
